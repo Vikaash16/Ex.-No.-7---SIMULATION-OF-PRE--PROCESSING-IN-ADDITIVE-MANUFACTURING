@@ -49,7 +49,7 @@
 
 
 
-### Name:SHREE GANESH D
+### Name: GANESH D
 ### Register Number: 212223240035
 
 ## Result: 
