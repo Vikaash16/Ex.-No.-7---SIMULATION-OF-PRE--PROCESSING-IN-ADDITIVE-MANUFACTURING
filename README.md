@@ -50,8 +50,8 @@
 
 
 
-### Name: GANESH D
-### Register Number: 212223240035
+### Name: Vikaash P
+### Register Number: 212223240180
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
